@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "botao-de-seta-para-a-esquerda-do-teclado.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
